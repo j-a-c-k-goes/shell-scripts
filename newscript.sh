@@ -1,3 +1,4 @@
+#!/bin/zsh
 # create new script file
 function newscript(){
 	touch "$@.sh"
